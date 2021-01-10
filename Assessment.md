@@ -24,7 +24,7 @@ The technical assessments below provides us an idea of the learning efforts you 
 
 - Commit these changes to the repo into a branch called ``feature``and Merge your ``feature branch`` to the ``stable branch`` ( _do not delete the feature branch_)
 
-- Push your final docker image to dockerhub
+- Push your final docker image to dockerhub (https://hub.docker.com/)
 
 - Your github repo ``Master`` branch should only have a readme file with instructions/documentaion used for your deployment and a link to your docker hub repository
 
