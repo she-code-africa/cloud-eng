@@ -51,6 +51,6 @@ Requirements:
 
 ## Submission
 - Push your project to your github repo created (and dockerhub if applicable).
-- submit your project github URL on the application form here: [http://bit.ly/sca_cloud_c1]
+- submit your project github URL on the application form here: [www.shecodeafrica.org/events]
 
 *Good luck!*
